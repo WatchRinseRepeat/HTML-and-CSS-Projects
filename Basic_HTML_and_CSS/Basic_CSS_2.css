@@ -12,4 +12,5 @@ p {
 	background: black;
 	font-weight: bold;
 	text-align: center;
+	text-shadow: 5px 2px 4px #FFFFFF;
 }
