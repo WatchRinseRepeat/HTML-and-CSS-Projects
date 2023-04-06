@@ -10,3 +10,7 @@ input {
     border-style: solid;
     border-radius: 8px;
 }
+
+a:hover {
+    color: darkgoldenrod;
+}
